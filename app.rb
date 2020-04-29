@@ -1,7 +1,6 @@
 require 'sinatra/base'
 
 class App < Sinatra::Base
-class App < Sinatra::Base
 
    get '/newteam' do
 
@@ -14,5 +13,4 @@ class App < Sinatra::Base
    end
 
 end
-
-end
+© 2020 GitHub, Inc.
