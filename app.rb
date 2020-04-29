@@ -13,4 +13,3 @@ class App < Sinatra::Base
    end
 
 end
-© 2020 GitHub, Inc.
